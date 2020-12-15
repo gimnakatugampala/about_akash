@@ -242,7 +242,7 @@ const question = [
         answers:[
             {text:'Mark Cuban and Elon Musk',correct:false},
             {text:'Warren Buffet and Donald Trump',correct:false},
-            {text:'Mark Zuckerberg and Jack Ma',correct:true},
+            {text:'Manjula Sir and Kapila Sir',correct:true},
             {text:'Jeff Bezos and Larry Page',correct:false}
         ]
     },
